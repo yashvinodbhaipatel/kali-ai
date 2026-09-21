@@ -14,7 +14,7 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://special-chainsaw-5j4p9969gg6f45jw-3000.app.github.dev](http://special-chainsaw-5j4p9969gg6f45jw-3000.app.github.dev) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
